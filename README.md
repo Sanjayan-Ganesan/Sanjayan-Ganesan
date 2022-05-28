@@ -6,7 +6,7 @@ console.log("developers")👋
 
 You have finally discovered my Github Profile.Please feel free to clone/fork projects,raise issues and submit PR's if you think Something Could be better.
 
-Ask me anything here (or) E-mail me @ sanjayanganesan@gmail.com
+Ask me anything here (or) e-mail me @ sanjayanganesan@gmail.com
 
 Happy Coding...
 
