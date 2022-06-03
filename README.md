@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 TECH SKILLS AND FRAMEWORKS:
 
-![html5-logo-devextreme-multi-purpose-controls-html-javascript-3](https://user-images.githubusercontent.com/97502651/171915501-8198452b-d12d-419c-9f83-5e031aa600dd.jpg)
+![html-css-js-icons-text-logo-symbol-trademark-transparent-png-1153004](https://user-images.githubusercontent.com/97502651/171915911-58a33261-8b1e-4017-bfd9-7c9f266aada4.jpg)
 
 
 
