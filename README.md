@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 
 TECH SKILLS AND FRAMEWORKS:
 
-![reactjs-logo-sticker (1) (1)](https://user-images.githubusercontent.com/97502651/171917003-0a022638-da24-4efd-9f49-7c631a8c628d.jpg)    ![html5-logo-devextreme-multi-purpose-controls-html-javascript-3 (5)](https://user-images.githubusercontent.com/97502651/171917508-4e2f94a6-3326-4637-85da-037a94ce5586.jpg)
+![reactjs-logo-sticker (1) (1)](https://user-images.githubusercontent.com/97502651/171917003-0a022638-da24-4efd-9f49-7c631a8c628d.jpg)    ![html5-logo-devextreme-multi-purpose-controls-html-javascript-3 (5)](https://user-images.githubusercontent.com/97502651/171917508-4e2f94a6-3326-4637-85da-037a94ce5586.jpg)  ![download (1)](https://user-images.githubusercontent.com/97502651/171917896-4bfbf3ba-8fa7-493b-ab20-36e9be49750d.jpg)
+
 
 
 
