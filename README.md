@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 
 TECH SKILLS AND FRAMEWORKS:
 
-![javascript-logo-8892AEFCAC-seeklogo com (1)](https://user-images.githubusercontent.com/97502651/171914639-d57d3f87-2a35-4993-9b77-c3c43a549606.jpg)
+![javascript-logo-8892AEFCAC-seeklogo com (2)](https://user-images.githubusercontent.com/97502651/171914762-499e2781-fd7f-4945-a60e-038f3d93bbac.jpg)
+
 
 
 
