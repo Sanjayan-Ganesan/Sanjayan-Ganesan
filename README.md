@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 
 TECH SKILLS AND FRAMEWORKS:
 
-![javascript-logo-8892AEFCAC-seeklogo com (2)](https://user-images.githubusercontent.com/97502651/171914762-499e2781-fd7f-4945-a60e-038f3d93bbac.jpg)     ![HTML5_Logo_512](https://user-images.githubusercontent.com/97502651/171915219-9586907b-7c1f-4b00-9a8f-17592dfc6920.jpg)
+![html5-logo-devextreme-multi-purpose-controls-html-javascript-3](https://user-images.githubusercontent.com/97502651/171915501-8198452b-d12d-419c-9f83-5e031aa600dd.jpg)
+
 
 
 
