@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on to a Challenging Organisation as SDE to enhance and emphasis their Software Performance.
 
 
-
 - 💬 Ask me about MERN Stack and DSA.
 
 
@@ -34,4 +33,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Sometimes Even I miss to be Consistent,Advice are Sometimes for the Third Person.
 
 - To Know My Work Check-Out My Personal Portfolio Website: https://sanjayan-ganesan-portfolio.netlify.app/
+
+TECH SKILLS AND FRAMEWORKS:
+
+![javascript-logo-8892AEFCAC-seeklogo com](https://user-images.githubusercontent.com/97502651/171913919-c0f633b8-d7d9-4d2d-a4a6-9b69c9f0cd3d.png)
+
+
+
 
