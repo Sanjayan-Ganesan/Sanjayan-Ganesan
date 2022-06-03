@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on FullStack Web Development and in Game of Coding.
 
 
-- 🌱 I’m currently learning MERN Stack along with Data Structures & Algorithm with a Rush on Competitive Programming.
+- 🌱 I’m currently learning Full Stack along with Data Structures & Algorithm with a Rush on Competitive Programming.
 
 
 - 👯 I’m looking to collaborate on to a Challenging Organisation as SDE to enhance and emphasis their Software Performance.
 
 
-- 💬 Ask me about MERN Stack and DSA.
+- 💬 Ask me about Full Stack and DSA.
 
 
 - 📫 How to reach me: Do contact me for Queries @ sanjayanganesan@gmail.com
